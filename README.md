@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:eng.salman01@outlook.com"><img src="https://img.shields.io/badge/Email-eng.salman01@outlook.com-10b981?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/salmanrafid/"><img src="https://img.shields.io/badge/LinkedIn-salmanrafid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://thakirni.com"><img src="https://img.shields.io/badge/Live_project-thakirni.com-0284c7?style=flat-square&logo=vercel&logoColor=white" alt="Thakirni"></a>
+  <a href="https://github.com/EngSalman01/Thakirni"><img src="https://img.shields.io/badge/Featured-Thakirni-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Thakirni"></a>
 </p>
 
 ## About
@@ -21,7 +21,7 @@ I speak **Arabic, English and Mandarin Chinese**. I studied for four years in Ch
 
 ## Featured work
 
-### <img src="https://nzetbvkkxairfglmougn.supabase.co/storage/v1/object/public/Public/logo-full.png" width="22" align="top" alt=""> Thakirni · ذكرني
+### <img src="https://raw.githubusercontent.com/EngSalman01/Thakirni/main/icon-96.svg" width="22" align="top" alt=""> Thakirni · ذكرني
 
 **An Arabic-first AI assistant that works on the web and directly in WhatsApp.**
 
@@ -29,7 +29,7 @@ Users chat in Arabic or English to schedule meetings and tasks in natural langua
 
 `Next.js 15` `TypeScript` `Supabase` `PostgreSQL` `Groq LLaMA 3.3` `Whisper` `WhatsApp Business API` `Paddle` `Vercel`
 
-[**Live site →**](https://thakirni.com) &nbsp;·&nbsp; [**Source code →**](https://github.com/EngSalman01/Thakirni)
+[**View the source code →**](https://github.com/EngSalman01/Thakirni)
 
 ---
 
