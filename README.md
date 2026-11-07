@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Salman Almnaseer — Software Engineer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngSalman01/EngSalman01/main/assets/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/EngSalman01/EngSalman01/main/assets/banner-light.svg" alt="Salman Almnaseer — Software Engineer" width="100%">
 </picture>
 
 <p align="center">
@@ -33,15 +33,27 @@ Users chat in Arabic or English to schedule meetings and tasks in natural langua
 
 ---
 
-### 🔧 Workshop management system
+### 🔧 CarHub · Workshop website and operating system
 
-**A production system that runs daily operations at a car repair workshop in Saudi Arabia.**
+**The website and daily operating system of a real car workshop in Al Khobar, in production.**
 
-It covers digital job cards, inspection reports with customer approval via WhatsApp links, printable technician work orders, payment and deposit tracking, and PDF generation. The interface is fully bilingual (Arabic/English) and covered by automated tests.
+It covers digital job cards from intake to delivery, inspection reports the customer approves line by line, technician work orders, parts and purchases, vouchers, payments and reports. The interface is fully bilingual (Arabic/English) and covered by 114 automated tests.
 
-`Next.js` `TypeScript` `PostgreSQL` `Supabase` `Drizzle ORM` `next-intl` `Puppeteer` `Vitest` `Vercel`
+`Next.js 16` `TypeScript` `PostgreSQL` `Supabase` `Drizzle ORM` `next-intl` `Puppeteer` `Vitest` `Vercel`
 
-<sub>🔒 The source code is private because it handles a client's business data. I'm happy to walk through the architecture in an interview.</sub>
+[**Read the case study →**](https://github.com/EngSalman01/EngSalman01/tree/main/projects/carhub) &nbsp;<sub>🔒 code private, as it holds a business's customer data</sub>
+
+---
+
+### 🚗 CarHub Pro · Workshop SaaS
+
+**A multi-tenant SaaS that replaces the paper job card for workshops across Saudi Arabia, with web, iOS and Android apps.**
+
+Each shop gets its own isolated workspace, custom roles and permissions, branded printouts, an accounting add-on, customer tracking links, and subscription invoices with ZATCA QR codes. It's self-hosted on Oracle Cloud in Riyadh.
+
+`Next.js 16` `TypeScript` `PostgreSQL` `Auth.js` `Flutter` `Docker` `Oracle Cloud`
+
+[**Read the case study →**](https://github.com/EngSalman01/EngSalman01/tree/main/projects/carhub-pro) &nbsp;<sub>🔒 code private, pre-launch product</sub>
 
 ---
 
@@ -72,10 +84,12 @@ I trained and compared YOLOv8 and RetinaNet models. The best model reached **94%
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 <br>
